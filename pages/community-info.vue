@@ -133,7 +133,7 @@ export default {
 
         this.loading = false;
       } catch {
-        this.$toast.error("เกิดข้อผิดพลาด, กรุณาลองใหม่อีกครั้ง");
+        this.$toast.error("เกิดข้อผิดพลาด, กรุณาลองใหม่อีกครั้ง ");
       } finally {
         this.loading = false;
       }
