@@ -195,7 +195,7 @@
         </v-toolbar>
         <div class="px-4 py-4">
           <v-alert type="success" outlined>
-            สร้างทะเบียนครัวเรือน บ้านเลขที่ {{ house_number }} สำเร็จ!
+            แก้ไขทะเบียนครัวเรือน บ้านเลขที่ {{ house_number }} สำเร็จ!
           </v-alert>
 
           <div class="mt-4">
